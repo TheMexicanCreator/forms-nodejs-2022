@@ -1,0 +1,27 @@
+{
+  "name": "forms-nodejs-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMexicanCreator/forms-nodejs-2022.git"
+  },
+  "author": "Roberto Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheMexicanCreator/forms-nodejs-2022/issues"
+  },
+  "homepage": "https://github.com/TheMexicanCreator/forms-nodejs-2022#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemailer": "^6.7.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
